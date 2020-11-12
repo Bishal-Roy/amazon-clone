@@ -16,14 +16,34 @@ function Home() {
             title="Elite Series 2 Controller - Black"
             price={19.99}
             rating={4}
-            image="https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Fuji/2020/May/Dashboard/Fuji_Dash_Gaming_2X._SY608_CB432517394_.jpg"
+            image="https://m.media-amazon.com/images/I/51IOmsWQVAL._AC_UY218_.jpg"
           />
-          <Product />
+          <Product
+            title="Elite Series 2 Controller - Black"
+            price={30.99}
+            rating={5}
+            image="https://m.media-amazon.com/images/I/61JJl260NlL._AC_UY218_.jpg"
+          />
         </div>
         <div className="home_row">
-          <Product />
-          <Product />
-          <Product />
+          <Product
+            title="Elite Series 2 Controller - Black"
+            price={19.99}
+            rating={4}
+            image="https://m.media-amazon.com/images/I/710R9YpV9nL._AC_UY218_.jpg"
+          />
+          <Product
+            title="Elite Series 2 Controller - Black"
+            price={19.99}
+            rating={4}
+            image="https://m.media-amazon.com/images/I/61tmThxXwCL._AC_UY218_.jpg"
+          />
+          <Product
+            title="Elite Series 2 Controller - Black"
+            price={19.99}
+            rating={4}
+            image="https://m.media-amazon.com/images/I/51kxIEmO+ZL._AC_UY218_.jpg"
+          />
         </div>
         <div className="home_row">
           <Product />
